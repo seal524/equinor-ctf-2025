@@ -32,6 +32,7 @@ Steps:
 
 ### web
  - **[Hackermon](/writeups/web/Hackermon)**
+	 - [big](/writeups/web/Hackermon/big)  
  - **[LOUD CRM](/writeups/web/LOUD%20CRM)**
  - **[Yarr!](/writeups/web/Yarr!)**
  - **[Of CORS I Can Help!](/writeups/web/Of%20CORS%20I%20Can%20Help!)**
@@ -80,7 +81,9 @@ Steps:
  - **[EPT Flag Ship](/writeups/misc/EPT%20Flag%20Ship)**
  - **[Wolf3d](/writeups/misc/Wolf3d)**
  - **[Norges Aller Beste Hacker - Level 1](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%201)**
+	 - [enso](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%201/enso)  
  - **[Norges Aller Beste Hacker - Level 2](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%202)**
+	 - [enso](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%202/enso)  
  - **[Guess it](/writeups/misc/Guess%20it)**
 	 - [telenor](/writeups/misc/Guess%20it/telenor)  
  - **[Zippy](/writeups/misc/Zippy)**
@@ -92,6 +95,7 @@ Steps:
  - **[Frozen Labyrinth](/writeups/reversing/Frozen%20Labyrinth)**
  - **[Broken Mario 2](/writeups/reversing/Broken%20Mario%202)**
  - **[FlagChecker](/writeups/reversing/FlagChecker)**
+	 - [enso](/writeups/reversing/FlagChecker/enso)  
  - **[EPTBoy Strikes Back](/writeups/reversing/EPTBoy%20Strikes%20Back)**
  - **[FlagPrinter](/writeups/reversing/FlagPrinter)**
  - **[EPTBoy](/writeups/reversing/EPTBoy)**
