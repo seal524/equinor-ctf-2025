@@ -57,6 +57,7 @@ Steps:
  - **[shop-7](/writeups/web/shop-7)**
 	 - [synapse_burnout](/writeups/web/shop-7/synapse_burnout)  
  - **[Spin-For-Flag](/writeups/web/Spin-For-Flag)**
+	 - [bootplug](/writeups/web/Spin-For-Flag/bootplug)  
 	 - [sifi](/writeups/web/Spin-For-Flag/sifi)  
  - **[breadcrumbs](/writeups/web/breadcrumbs)**
 	 - [B00S](/writeups/web/breadcrumbs/B00S)  
@@ -66,6 +67,7 @@ Steps:
  - **[Make-a-String](/writeups/crypto/Make-a-String)**
  - **[420BasedIt](/writeups/crypto/420BasedIt)**
 	 - [UiACTF](/writeups/crypto/420BasedIt/UiACTF)  
+	 - [bootplug](/writeups/crypto/420BasedIt/bootplug)  
 	 - [big](/writeups/crypto/420BasedIt/big)  
 	 - [bwnfools](/writeups/crypto/420BasedIt/bwnfools)  
  - **[Srstokken](/writeups/crypto/Srstokken)**
@@ -87,6 +89,7 @@ Steps:
  - **[(in)Sanity](/writeups/sanity/(in)Sanity)**
  - **[Badge Flag](/writeups/sanity/Badge%20Flag)**
  - **[Confirm attendance](/writeups/sanity/Confirm%20attendance)**
+	 - [bootplug](/writeups/sanity/Confirm%20attendance/bootplug)  
 ### misc
  - **[EPT Flag Ship](/writeups/misc/EPT%20Flag%20Ship)**
  - **[Wolf3d](/writeups/misc/Wolf3d)**
@@ -95,6 +98,7 @@ Steps:
  - **[Norges Aller Beste Hacker - Level 2](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%202)**
 	 - [enso](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%202/enso)  
  - **[Guess it](/writeups/misc/Guess%20it)**
+	 - [bootplug](/writeups/misc/Guess%20it/bootplug)  
 	 - [telenor](/writeups/misc/Guess%20it/telenor)  
  - **[Zippy](/writeups/misc/Zippy)**
  - **[Cubeguessr](/writeups/misc/Cubeguessr)**
@@ -113,15 +117,20 @@ Steps:
  - **[FlagPrinter](/writeups/reversing/FlagPrinter)**
 	 - [bwnfools](/writeups/reversing/FlagPrinter/bwnfools)  
  - **[EPTBoy](/writeups/reversing/EPTBoy)**
+	 - [bootplug](/writeups/reversing/EPTBoy/bootplug)  
 	 - [ekho](/writeups/reversing/EPTBoy/ekho)  
  - **[Dark Side of the Shader](/writeups/reversing/Dark%20Side%20of%20the%20Shader)**
 ### onsite
  - **[Quiz-About](/writeups/onsite/Quiz-About)**
+	 - [bootplug](/writeups/onsite/Quiz-About/bootplug)  
  - **[EPT Cyber Range](/writeups/onsite/EPT%20Cyber%20Range)**
  - **[The Claw](/writeups/onsite/The%20Claw)**
+	 - [bootplug](/writeups/onsite/The%20Claw/bootplug)  
  - **[Even moar pixel perfect](/writeups/onsite/Even%20moar%20pixel%20perfect)**
  - **[puzzlemania](/writeups/onsite/puzzlemania)**
+	 - [bootplug](/writeups/onsite/puzzlemania/bootplug)  
  - **[A-maze a-maze a-mazing](/writeups/onsite/A-maze%20a-maze%20a-mazing)**
+	 - [bootplug](/writeups/onsite/A-maze%20a-maze%20a-mazing/bootplug)  
 ### forensics
  - **[Home Intrusion 2](/writeups/forensics/Home%20Intrusion%202)**
  - **[Insecure Exfil](/writeups/forensics/Insecure%20Exfil)**
