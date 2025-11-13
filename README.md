@@ -76,6 +76,7 @@ Steps:
 	 - [synapse_burnout](/writeups/web/breadcrumbs/synapse_burnout)  
 ### crypto
  - **[Hyperactive](/writeups/crypto/Hyperactive)**
+	 - [Iku-toppene](/writeups/crypto/Hyperactive/Iku-toppene)  
  - **[Make-a-String](/writeups/crypto/Make-a-String)**
  - **[420BasedIt](/writeups/crypto/420BasedIt)**
 	 - [UiACTF](/writeups/crypto/420BasedIt/UiACTF)  
